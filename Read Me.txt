@@ -1,0 +1,42 @@
+Citation Request:
+	The data set is originated from a larger database referred on:
+	Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um sistema promocional.
+	Mestrado em Marketing, ISCTE-IUL, Lisbon.
+------------------------------------------------------------------------------------------------------
+
+1. Title: 	Customer segmentation in sales
+
+2. Introduction: 
+
+	It entails grouping customers of a wholesale company based on their annual buying patterns using K-Means and DBSCAN clustering algorithms. 
+	The result identifies groups of similar customer purchase characteristics and helps guide the company on targeted marketing or promotions.
+
+3. Data source:	 The dataset is public, available for research.
+		It was obtained from UCI Machine Learning Repository
+		https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+
+4. Framework: Jupyter Notebook (anaconda3)
+
+5. How to run the code:	install Jupyter Notebook, open the source file "Task3" via the framework, save the dataset "Wholesale customers data" to 
+			your working directory, and run the file
+
+6. Number of instances: 440
+
+7. Number of attributes: 8
+
+8. Missing attribute values: None
+
+9. Attribute information:
+
+Attributes		Type		Description
+Channel			Nominal		Horeca (Hotel/Restaurant/Cafe) or Retail 
+Region			Nominal		Lisbon, Oporto, or Other
+Fresh products		Continuous	Annual spending on fresh products 
+Milk products		Continuous	Annual spending on milk products
+Grocery			Continuous	Annual spending on grocery products
+Frozen products		Continuous	Annual spending on frozen products
+Detergents_paper	Continuous	Annual spending on detergents and paper products
+Delicatessen		Continuous	Annual spending on delicatessen products
+
+
+
