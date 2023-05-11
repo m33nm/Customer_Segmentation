@@ -17,7 +17,7 @@ Citation Request:
 
 4. Framework: Jupyter Notebook (anaconda3)
 
-5. How to run the code:	install Jupyter Notebook, open the source file "Clustering" via the framework, save the dataset "Wholesale customers data" to 
+5. How to run the code:	install Jupyter Notebook, open the source file "Clustering..." via the framework, save the dataset "Wholesale customers data" to 
 			your working directory, and run the file
 
 6. Number of instances: 440
