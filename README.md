@@ -19,23 +19,32 @@ patterns with a silhouette score of 0.368.
 ![image](https://github.com/m33nm/Customer_Segmentation/assets/54365936/fa4c94e6-2072-4945-8036-f2d98302ca0c)
 Figure 1: KMeans clusters
 
-Cluster interpretations:
+_Cluster interpretations:_
+
 o Cluster 4: regular purchases, minimal spending
+
 o Cluster 3: very high purchase, high spending
+
 o Cluster 2: minimal purchases, very high spending
+
 o Cluster 1: a bit more regular purchases, more spending
+
 o Cluster 0: regular purchases, minimal spending
+
 
 **_DBSCAN_**
 
 DBSCAN algorithm identified only two clusters, indicating that the wholesale company clients
 can be segmented into two groups with similar characteristics; the regular buyers and the binge
 buyers with a silhouette score of 0.748699.
+
 ![image](https://github.com/m33nm/Customer_Segmentation/assets/54365936/bff3ca53-d8a2-4fd0-92d9-8c0b996671cd)
 Figure 2: DBSCAN clusters
 
-Cluster interpretations:
+_Cluster interpretations:_
+
 o Cluster 0: regular purchases, regular spending
+
 o Cluster -1: very high purchase, high spending
 
 # Conclusion
